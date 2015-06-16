@@ -1,7 +1,7 @@
 # r-programming-assignment-2
 ## For the Coursera course [R Programming](https://www.coursera.org/course/rprog)
 
-The following code demonstrates how to use the `assessment3.R` R script.
+The following code demonstrates how to use the `cachematrix.R` R script.
 
 Lines starting with `#` are simple comments, lines starting with `#>` are things
 printed in the output.
